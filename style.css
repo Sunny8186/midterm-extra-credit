@@ -1,0 +1,17 @@
+h1{
+    color:goldenrod;
+    font-style:bold;
+    font-size: xx-large;
+}
+
+p {
+   color:navy;
+   text-align:center;
+   font-style:italic;
+}
+
+img{
+    width: 400px;
+    margin:auto;
+}
+
